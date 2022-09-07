@@ -1,0 +1,3 @@
+message:"Hi, how are you"
+
+# this message will be sent when someone accept friend request #
