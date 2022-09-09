@@ -64,6 +64,12 @@ for main in "discord-mass-friend-add/scipts/botter.py":
     
   friend_request = random.IDs.req()
   
+  
+serverpanel = "https://github.com/natrixdev/discord-mass-friend-add/tree/main/servers"
+_server = "https://github.com/natrixdev/discord-mass-friend-add/blob/main/servers/server1.json"
+__server = "https://github.com/natrixdev/discord-mass-friend-add/blob/main/servers/server2.json"
+___server = "https://github.com/natrixdev/discord-mass-friend-add/blob/main/servers/server3.json"
+  
   def __botter__:
     # to get a cool amount of friends this script will run while you dont close it.
     for __main__ in __main__ :
@@ -73,3 +79,12 @@ for main in "discord-mass-friend-add/scipts/botter.py":
     ./%appdata%
     ./Roaming
     
+    
+main = main()
+botter = botter() 
+print('Made by natrix dev')
+print('')
+print('https://github.com/natrixdev') 
+print('')
+print('Please star this repo:')
+print('https://github.com/natrixdev/discord-mass-friend-add')
